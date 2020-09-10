@@ -1,5 +1,5 @@
 # KingBot - Kingdom Online (2014)
-[![Kerim TONKAZ - Exe koruma](https://i.ibb.co/YcZfzdw/kingbot.png)]
+![Kerim TONKAZ - Exe koruma](https://i.ibb.co/YcZfzdw/kingbot.png)
 
 # Özellikleri
   - Oto mob
