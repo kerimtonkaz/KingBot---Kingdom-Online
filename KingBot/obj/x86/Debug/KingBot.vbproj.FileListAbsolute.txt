@@ -1,0 +1,51 @@
+C:\Users\PointeR\Documents\Visual Studio 2013\Projects\PointeR\KingBot\KingBot\bin\x86\Debug\KingBot.exe
+C:\Users\PointeR\Documents\Visual Studio 2013\Projects\PointeR\KingBot\KingBot\bin\x86\Debug\KingBot.pdb
+C:\Users\PointeR\Documents\Visual Studio 2013\Projects\PointeR\KingBot\KingBot\bin\x86\Debug\KingBot.xml
+C:\Users\PointeR\Documents\Visual Studio 2013\Projects\PointeR\KingBot\KingBot\obj\x86\Debug\Interop.AutoItX3Lib.dll
+C:\Users\PointeR\Documents\Visual Studio 2013\Projects\PointeR\KingBot\KingBot\obj\x86\Debug\KingBot.vbproj.ResolveComReference.cache
+C:\Users\PointeR\Documents\Visual Studio 2013\Projects\PointeR\KingBot\KingBot\obj\x86\Debug\KingBot.main.resources
+C:\Users\PointeR\Documents\Visual Studio 2013\Projects\PointeR\KingBot\KingBot\obj\x86\Debug\KingBot.Resources.resources
+C:\Users\PointeR\Documents\Visual Studio 2013\Projects\PointeR\KingBot\KingBot\obj\x86\Debug\KingBot.vbproj.GenerateResource.Cache
+C:\Users\PointeR\Documents\Visual Studio 2013\Projects\PointeR\KingBot\KingBot\obj\x86\Debug\KingBot.exe
+C:\Users\PointeR\Documents\Visual Studio 2013\Projects\PointeR\KingBot\KingBot\obj\x86\Debug\KingBot.xml
+C:\Users\PointeR\Documents\Visual Studio 2013\Projects\PointeR\KingBot\KingBot\obj\x86\Debug\KingBot.pdb
+G:\K.R.M\Teknik\Önemli Bilgiler\Projelerim\Projects\PointeR\KingBot\KingBot\obj\x86\Debug\Interop.AutoItX3Lib.dll
+G:\K.R.M\Teknik\Önemli Bilgiler\Projelerim\Projects\PointeR\KingBot\KingBot\obj\x86\Debug\KingBot.vbproj.ResolveComReference.cache
+G:\K.R.M\Teknik\Önemli Bilgiler\Projelerim\Projects\PointeR\KingBot\KingBot\obj\x86\Debug\KingBot.exe
+G:\K.R.M\Teknik\Önemli Bilgiler\Projelerim\Projects\PointeR\KingBot\KingBot\obj\x86\Debug\KingBot.xml
+G:\K.R.M\Teknik\Önemli Bilgiler\Projelerim\Projects\PointeR\KingBot\KingBot\obj\x86\Debug\KingBot.pdb
+C:\Users\Pointers\Documents\Visual Studio 2013\Projects\PointeR\KingBot\KingBot\obj\x86\Debug\Interop.AutoItX3Lib.dll
+C:\Users\Pointers\Documents\Visual Studio 2013\Projects\PointeR\KingBot\KingBot\obj\x86\Debug\KingBot.vbproj.ResolveComReference.cache
+C:\Users\Pointers\Documents\Visual Studio 2013\Projects\PointeR\KingBot\KingBot\obj\x86\Debug\KingBot.exe
+C:\Users\Pointers\Documents\Visual Studio 2013\Projects\PointeR\KingBot\KingBot\obj\x86\Debug\KingBot.xml
+C:\Users\Pointers\Documents\Visual Studio 2013\Projects\PointeR\KingBot\KingBot\obj\x86\Debug\KingBot.pdb
+D:\HDD YEDEK\PointeR\Teknik\Önemli Bilgiler\Projelerim\Projects\PointeR\KingBot\KingBot\obj\x86\Debug\Interop.AutoItX3Lib.dll
+D:\HDD YEDEK\PointeR\Teknik\Önemli Bilgiler\Projelerim\Projects\PointeR\KingBot\KingBot\obj\x86\Debug\KingBot.vbproj.ResolveComReference.cache
+D:\HDD YEDEK\PointeR\Teknik\Önemli Bilgiler\Projelerim\Projects\PointeR\KingBot\KingBot\obj\x86\Debug\KingBot.exe
+D:\HDD YEDEK\PointeR\Teknik\Önemli Bilgiler\Projelerim\Projects\PointeR\KingBot\KingBot\obj\x86\Debug\KingBot.xml
+D:\HDD YEDEK\PointeR\Teknik\Önemli Bilgiler\Projelerim\Projects\PointeR\KingBot\KingBot\obj\x86\Debug\KingBot.pdb
+C:\Users\cimic\Documents\Visual Studio 2015\Projects\PointeR\KingBot\KingBot\obj\x86\Debug\Interop.AutoItX3Lib.dll
+C:\Users\cimic\Documents\Visual Studio 2015\Projects\PointeR\KingBot\KingBot\obj\x86\Debug\KingBot.vbproj.ResolveComReference.cache
+C:\Users\cimic\Documents\Visual Studio 2015\Projects\PointeR\KingBot\KingBot\obj\x86\Debug\KingBot.exe
+C:\Users\cimic\Documents\Visual Studio 2015\Projects\PointeR\KingBot\KingBot\obj\x86\Debug\KingBot.xml
+C:\Users\cimic\Documents\Visual Studio 2015\Projects\PointeR\KingBot\KingBot\obj\x86\Debug\KingBot.pdb
+C:\Users\cimic\Documents\Visual Studio 2015\Projects\PointeR\KingBot\KingBot\bin\x86\Debug\KingBot.exe
+C:\Users\cimic\Documents\Visual Studio 2015\Projects\PointeR\KingBot\KingBot\bin\x86\Debug\KingBot.pdb
+C:\Users\cimic\Documents\Visual Studio 2015\Projects\PointeR\KingBot\KingBot\bin\x86\Debug\KingBot.xml
+C:\Users\cimic\Documents\Visual Studio 2015\Projects\PointeR\KingBot\KingBot\obj\x86\Debug\KingBot.vbprojResolveAssemblyReference.cache
+C:\Users\cimic\Documents\Visual Studio 2015\Projects\PointeR\KingBot\KingBot\obj\x86\Debug\KingBot.main.resources
+C:\Users\cimic\Documents\Visual Studio 2015\Projects\PointeR\KingBot\KingBot\obj\x86\Debug\KingBot.Resources.resources
+C:\Users\cimic\Documents\Visual Studio 2015\Projects\PointeR\KingBot\KingBot\obj\x86\Debug\KingBot.vbproj.GenerateResource.Cache
+C:\Users\Kerim TONKAZ\Desktop\paylas\KingBot\KingBot\bin\x86\Debug\KingBot.exe
+C:\Users\Kerim TONKAZ\Desktop\paylas\KingBot\KingBot\bin\x86\Debug\KingBot.pdb
+C:\Users\Kerim TONKAZ\Desktop\paylas\KingBot\KingBot\bin\x86\Debug\KingBot.xml
+C:\Users\Kerim TONKAZ\Desktop\paylas\KingBot\KingBot\obj\x86\Debug\KingBot.vbprojAssemblyReference.cache
+C:\Users\Kerim TONKAZ\Desktop\paylas\KingBot\KingBot\obj\x86\Debug\Interop.AutoItX3Lib.dll
+C:\Users\Kerim TONKAZ\Desktop\paylas\KingBot\KingBot\obj\x86\Debug\KingBot.vbproj.ResolveComReference.cache
+C:\Users\Kerim TONKAZ\Desktop\paylas\KingBot\KingBot\obj\x86\Debug\KingBot.main.resources
+C:\Users\Kerim TONKAZ\Desktop\paylas\KingBot\KingBot\obj\x86\Debug\KingBot.Resources.resources
+C:\Users\Kerim TONKAZ\Desktop\paylas\KingBot\KingBot\obj\x86\Debug\KingBot.vbproj.GenerateResource.cache
+C:\Users\Kerim TONKAZ\Desktop\paylas\KingBot\KingBot\obj\x86\Debug\KingBot.vbproj.CoreCompileInputs.cache
+C:\Users\Kerim TONKAZ\Desktop\paylas\KingBot\KingBot\obj\x86\Debug\KingBot.exe
+C:\Users\Kerim TONKAZ\Desktop\paylas\KingBot\KingBot\obj\x86\Debug\KingBot.xml
+C:\Users\Kerim TONKAZ\Desktop\paylas\KingBot\KingBot\obj\x86\Debug\KingBot.pdb
