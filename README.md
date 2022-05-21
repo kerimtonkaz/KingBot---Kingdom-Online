@@ -10,7 +10,10 @@
   - Oto Bölge toplama
   - Pencere Kontrol
 
-### OnlineHile Konusu
+### OnlineHile.com Konusu
+http://www.onlinehile.org/kingdom-online-blood-pledge/326383-kingbot-kingdom-online.html
+
+### OnlineHile.Org Konusu
 http://www.onlinehile.org/kingdom-online-blood-pledge/326383-kingbot-kingdom-online.html
 
 ### Kullanım Videosu
